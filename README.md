@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/victorrch" target="blank"><img src="https://img.shields.io/twitter/follow/victorrch?logo=twitter&style=for-the-badge" alt="victorrch" /></a> </p>
 
-- 🔭 I’m currently working on **JLL Technologies**
+- 🔭 I’m currently working on **Whalar**
 
 - 💬 Ask me about **React, Vue, Javascript.**
 
