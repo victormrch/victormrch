@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Whalar**🐳
 
-- 💬 Ask me about **React, Vue, Javascript.**
+- 💬 Ask me about **React, NextJs, Javascript.**
 
 - 📫 How to reach me **victormanuelchica@gmail.com**
 
