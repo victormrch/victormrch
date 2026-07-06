@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Ramón</h1>
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
 
-
-
-- 🔭 I’m currently working on **Whalar**🐳
-
-- 💬 Ask me about **React, NextJs, Javascript.**
-
-- 📫 How to reach me **victormanuelchica@gmail.com**
-
 - ⚡ Fun fact **I'm a Star Wars 🛸 and NBA 🏀 geek.**
 
 <h3 align="left">Connect with me:</h3>
